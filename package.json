@@ -1,0 +1,23 @@
+{
+  "name": "custom-table",
+  "version": "1.0.0",
+  "description": "demo table",
+  "main": "main.14fbc27c138ca132774a.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aashutosh-shrivastav/custum-table-package-for-npm-publish.git"
+  },
+  "keywords": [
+    "table",
+    "angular"
+  ],
+  "author": "aashutoshshrivastav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aashutosh-shrivastav/custum-table-package-for-npm-publish/issues"
+  },
+  "homepage": "https://github.com/aashutosh-shrivastav/custum-table-package-for-npm-publish#readme"
+}
